@@ -1,0 +1,32 @@
+1a. What concepts are similar? 
+
+When reviewing code, add tests to ensure that everything works properly.
+
+Code reviews are more like a discussion, rather than a dictation. It's fine to disagree with feedback, but it's important to explain why and give them an opportunity to respond.
+
+1b. What concepts are different?
+
+Yelp code review mentions the importance of responding to all actionable code review feedback.
+
+Meanwhile, Microsoft has more of a focus on the clarity of language and using an appropriate tone.
+
+1c. In general, what items should be present in a code review checklist for a development team?
+
+In general code reviews should verify that the code is correct/incorrect, point out any flaws using clear and respectful language, and avoid major changes without explanation.
+
+2. Find an example of a good code review. Provide a link to the review and explain why you find the review beneficial.
+
+This here is an example of a good code review. It uses clear language and makes minor changes while explaining why they were done and what effect that they had on the code. Someone in the comments had a follow-up question and the reviewer responded in an adequate time period.
+	
+
+	https://codereview.stackexchange.com/a/290960
+
+
+3. Find an example of a bad code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, provide review feedback.
+	There is an example of a bad code review. It was missing review context, Stack exchange stated. “Code Review requires concrete code from a project, with enough code and / or context for reviewers to understand how that code is used. Pseudocode, stub code, hypothetical code, obfuscated code, and generic best practices are outside the scope of this site.”
+	I'd recommend using pseudo code as explained by the flag in stack exchange.
+	
+https://codereview.stackexchange.com/questions/291379/next-js-supabase-auth-app-seeking-feedback-on-best-practices-and-reliability
+
+
+
